@@ -8,4 +8,4 @@
 **2.Object Internal Representation **
 
 
-[write a blog object internal representation](https://docs.google.com/document/d/1f_0aCUw3dHRucjrw-bzKrTW4VxnksDEimYgiHfBS0gM/edit)
+[write a blog object internal representation](https://docs.google.com/document/d/1f_0aCUw3dHRucjrw-bzKrTW4VxnksDEimYgiHfBS0gM/edit)"# demo02" 
